@@ -294,7 +294,7 @@ p {
   text-align: center;
 }
  #community h1{
-  font-size: 4rem;
+  /* font-size: 4rem; */
   font-weight:lighter;
   color: black;
   text-transform: uppercase;
@@ -425,7 +425,7 @@ p {
     padding-left:3rem;
   }
   #front{
-  width: 124%;
+  /* width: 124%; */
   }
 
   #front h1 {
@@ -457,7 +457,7 @@ p {
   }
 
   #footer {
-    width: 124%;
+    /* width: 124%; */
   }
   #contact h5{
     font-size: 1.3rem;
